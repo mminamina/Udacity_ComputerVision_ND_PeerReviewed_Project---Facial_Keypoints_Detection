@@ -1,4 +1,4 @@
-# ComputerVision_PeerReviewed_Project---Facial_Keypoints_Detection
+# ComputerVision PeerReviewed Project: Facial Keypoints Detection
 Project 1: Facial Keypoints Detection
 ### Project Experience
 This is the first computer vision project which allows me to apply deep learning computer vision architectures(using **Pytorch**) to build a facial keypoint detection system for
@@ -18,9 +18,9 @@ Only the following transformation techniques were chosen to avoid unnecessary im
 ### Architecture & Performance
 BatchSize, Epochs, Loss & Optimization Functions(only using **CPU**)
 
-- **BatchSize** : 10(notebook stopped working if used batchsize higher than 20)
-- **Epochs**   : 8(lower epochs was chosen due to hardware capacity constraint)
-- **Loss**     : SmoothL1Loss(significant loss reduction since earlier epochs)
+- **BatchSize** : 10 (notebook stopped working if used batchsize higher than 20)
+- **Epochs**   : 8 (lower epochs was chosen due to hardware capacity constraint)
+- **Loss**     : SmoothL1Loss (significant loss reduction since earlier epochs)
 - **Optimizer** : Adam 
 
 A simple model with 4 **Conv2D** layers, **ReLU** Activation, **MaxPooling**+**BatchNorm** in every layer, and **Dropout** to prevent overfitting.
@@ -35,5 +35,8 @@ A simple model with 4 **Conv2D** layers, **ReLU** Activation, **MaxPooling**+**B
 - Notebook 2. Define the Network Architecture.ipynb
 - Notebook 3. Facial Keypoint Detection, Complete Pipeline.ipynb
 - Notebook 4. Fun with Keypoints.ipynb
+
+##### Packages Used
+Python 3.6, Pytorch
 
 LICENSE: This project is licensed under the terms of the MIT license.
