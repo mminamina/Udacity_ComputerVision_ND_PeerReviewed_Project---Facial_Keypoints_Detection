@@ -2,10 +2,10 @@
 Project 1: Facial Keypoints Detection
 ### Project Experience
 This is the first computer vision project which allows me to apply deep learning computer vision architectures(using **Pytorch**) to build a facial keypoint detection system for
-- tracking, 
-- pose recognition,
+- tracking
+- pose recognition
 - filters
-- emotion recognition.
+- emotion recognition
 ### Image Augmentation
 Introduce generalization(randomness) to detect and learn structures.
 ### Transform Steps:
