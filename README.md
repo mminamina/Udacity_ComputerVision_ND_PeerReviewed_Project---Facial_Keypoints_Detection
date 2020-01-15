@@ -1,4 +1,4 @@
-# ComputerVision PeerReviewed Project: Facial Keypoints Detection
+## ComputerVision PeerReviewed Project: Facial Keypoints Detection
 Project 1: Facial Keypoints Detection
 ### Project Experience
 This is the first computer vision project which allows me to apply deep learning computer vision architectures(using **Pytorch**) to build a facial keypoint detection system for
@@ -26,7 +26,7 @@ BatchSize, Epochs, Loss & Optimization Functions(only using **CPU**)
 A simple model with 4 **Conv2D** layers, **ReLU** Activation, **MaxPooling**+**BatchNorm** in every layer, and **Dropout** to prevent overfitting.
 
 ### Worklist
-For instructions, please refer to https://github.com/udacity/P1_Facial_Keypoints
+For project instructions, please refer to https://github.com/udacity/P1_Facial_Keypoints
 > The project is broken up into four Python notebooks; 
 > only **Notebook 2, 3 and models.py** file are graded.
 
