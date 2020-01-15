@@ -8,7 +8,7 @@ This is the first computer vision project which allows me to apply deep learning
 - emotion recognition
 ### Image Augmentation
 Introduce generalization(randomness) to detect and learn structures.
-### Transform Steps:
+### Transform Steps
 Only the following transformation techniques were chosen to avoid unnecessary impacts on keypoints.
 
 - **Rescale** to 250 for width and height
@@ -36,7 +36,7 @@ A simple model with 4 **Conv2D** layers, **ReLU** Activation, **MaxPooling**+**B
 - Notebook 3. Facial Keypoint Detection, Complete Pipeline.ipynb
 - Notebook 4. Fun with Keypoints.ipynb
 
-##### Packages Used
+#### Packages Used
 Python 3.6, Pytorch
 
 LICENSE: This project is licensed under the terms of the MIT license.
