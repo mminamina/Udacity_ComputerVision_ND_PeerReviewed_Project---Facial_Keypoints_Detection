@@ -43,7 +43,7 @@ For project instructions, please refer to https://github.com/udacity/P1_Facial_K
 - http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf
 - https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
 
-#### Packages Used
+#### Packages 
 Python 3.6, Pytorch
 
 LICENSE: This project is licensed under the terms of the MIT license.
